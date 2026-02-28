@@ -1,24 +1,34 @@
 <h1 align="center">👨‍💻 Hi, I'm <code>Kshitij Rastogi</code></h1>
-<h3 align="center"><code>Java • DSA • MERN Stack • Problem Solver</code></h3>
+<h3 align="center">
+  <code>Java • DSA • MERN Stack • Problem Solver</code>
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kshitij2420&label=Profile%20Views&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Kshitij2420&label=Profile%20Views&color=00F7FF&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=720&lines=Java+Developer;DSA+Problem+Solver;MERN+Stack+Learner;LeetCode+Enthusiast;Tech+Driven+Mindset" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=760&lines=Java+Developer;DSA+Problem+Solver;MERN+Stack+Learner;LeetCode+Daily+Practitioner;Tech+Driven+Mindset" />
 </p>
 
 ---
 
+## 🧠 Summary
+I am a **results-driven software developer** with strong expertise in  
+**Java, Data Structures & Algorithms**, and hands-on learning in the  
+**MERN stack**. I focus on **consistency, clean architecture, and problem-solving**  
+to build scalable, industry-ready solutions.
+
+---
+
 ## 🚀 About Me
-<img align="right" width="250" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="230" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 - 🎓 **BCA Graduate**
-- 💻 **Java & Data Structures**
+- 💻 Strong in **Java & Core CS**
+- 🧠 Practicing **DSA & Competitive Programming**
 - 🌱 Learning **MERN Stack & SEO**
-- 🧠 Daily **LeetCode Practice**
-- 🎯 Goal: **Full Stack Developer**
+- 🎯 Goal: **High-Impact Software Engineer**
 
 <br clear="right"/>
 
@@ -31,20 +41,27 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Coding Consistency (Live)
 <p align="center">
-  <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=Kshitij2420&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" 
-       src="https://github-readme-streak-stats.herokuapp.com?user=Kshitij2420&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Kshitij2420&theme=tokyonight&hide_border=true&mode=daily"
+    width="70%"
+  />
+</p>
+
+<p align="center">
+  <b>Total Contributions • Current Streak • Longest Streak</b>
 </p>
 
 ---
 
-## 🧠 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij2420&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 🧠 Most Used Languages (Text-Only)
+- **Java** – OOP, Collections, DSA, Problem Solving  
+- **JavaScript** – ES6+, Async, DOM  
+- **HTML5 & CSS3** – Responsive UI  
+- **SQL (MySQL)** – Queries & Joins  
+- **React.js** – Hooks & State  
+- **Node.js / Express** – REST APIs  
 
 ---
 
@@ -55,10 +72,17 @@
 
 ---
 
+## 🐍 Contribution Snake (Auto-Updated)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kshitij2420/Kshitij2420/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🏆 Daily Coding Proof
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Daily%20Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DSA-Consistency%20Driven-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LeetCode-Daily%20Consistency-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solver-00F7FF?style=for-the-badge"/>
 </p>
 
 ---
@@ -71,17 +95,7 @@
   <a href="https://www.hackerrank.com/profile/kshitijrastogi22">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/user/kshitijrastogi22/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
 </p>
-
----
-
-## 📂 Featured Work
-- 🚀 **LeetCode Java Solutions**
-- 🌐 **MERN Stack Projects**
-- 🎨 **Frontend UI Designs**
 
 ---
 
@@ -90,7 +104,7 @@
   <a href="https://www.linkedin.com/in/kshitij-rastogi-b95759228">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:kshitijrastogi2420@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
@@ -98,7 +112,9 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:blueviolet&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&animation=fadeIn&section=footer" />
 </p>
 
-⭐ <code>If you like my work, consider starring my repositories!</code>
+<p align="center">
+  ⭐ <code>If you like my work, consider starring my repositories!</code>
+</p>
