@@ -1,24 +1,26 @@
-<h1 align="center">Hi 👋, I'm Kshitij Rastogi</h1>
-<h3 align="center">🚀 Aspiring Software Developer | Java | DSA | MERN Stack</h3>
+<h1 align="center">👨‍💻 Hi, I'm <code>Kshitij Rastogi</code></h1>
+<h3 align="center"><code>Java | DSA | MERN Stack | Problem Solver</code></h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kshitij2420&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Java+Developer;DSA+Problem+Solver;MERN+Stack+Learner;LeetCode+Enthusiast;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+Problem+Solver;MERN+Stack+Learner;LeetCode+Enthusiast;Always+Learning" />
 </p>
 
 ---
 
 ## 🚀 About Me
-<img align="right" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" width="260" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 - 🎓 **BCA Graduate**
-- 💻 Strong in **Java & Data Structures**
-- 🌱 Currently learning **MERN Stack & SEO**
-- 🧠 Regular **LeetCode Problem Solver**
-- 🎯 Goal: **Become a Full Stack Developer**
+- 💻 **Java & Data Structures**
+- 🌱 Learning **MERN Stack & SEO**
+- 🧠 Daily **LeetCode Practice**
+- 🎯 Goal: **Full Stack Developer**
+
+<br clear="right"/>
 
 ---
 
@@ -29,45 +31,35 @@
 
 ---
 
-## 📊 GitHub Stats (Auto Light/Dark Mode)
+## 📊 GitHub Stats (Auto Theme)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kshitij2420&show_icons=true&theme=tokyonight"
-       height="165"
-       #gh-dark-mode-only />
+  <!-- Dark Mode -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Kshitij2420&show_icons=true&theme=tokyonight" height="165" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Kshitij2420&show_icons=true&theme=default"
-       height="165"
-       #gh-light-mode-only />
+  <!-- Light Mode -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Kshitij2420&show_icons=true&theme=default" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kshitij2420&theme=tokyonight"
-       #gh-dark-mode-only />
+  <!-- Dark Mode -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kshitij2420&theme=tokyonight" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kshitij2420&theme=default"
-       #gh-light-mode-only />
-</p>
-
----
-
-## 🧠 Most Used Languages (Auto Theme)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij2420&layout=compact&theme=tokyonight"
-       #gh-dark-mode-only />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij2420&layout=compact&theme=default"
-       #gh-light-mode-only />
+  <!-- Light Mode -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kshitij2420&theme=default" />
 </p>
 
 ---
 
-## 🧩 LeetCode Stats (Auto-Updating Daily)
+## 🧠 Most Used Languages
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/kshitijrastogi_?theme=dark&font=Fira%20Code&ext=contest"
-       #gh-dark-mode-only />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij2420&layout=compact&theme=tokyonight" />
+</p>
 
-  <img src="https://leetcard.jacoblin.cool/kshitijrastogi_?theme=light&font=Fira%20Code&ext=contest"
-       #gh-light-mode-only />
+---
+
+## 🧩 LeetCode Stats (Live)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/kshitijrastogi_?theme=dark&font=Fira%20Code&ext=contest" />
 </p>
 
 ---
@@ -79,7 +71,7 @@
 
 ---
 
-## 🏆 Coding Profiles
+## 🔗 Coding Profiles
 <p align="center">
   <a href="https://leetcode.com/u/kshitijrastogi_/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -95,9 +87,9 @@
 ---
 
 ## 📂 Featured Work
-🚀 **LeetCode Java Solutions**  
-🌐 **MERN Stack Applications**  
-🎨 **Frontend UI Projects**
+- 🚀 **LeetCode Java Solutions**
+- 🌐 **MERN Stack Projects**
+- 🎨 **Frontend UI Designs**
 
 ---
 
@@ -117,4 +109,4 @@
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/footer.png"/>
 </p>
 
-⭐ **If you like my work, consider starring my repositories!**
+⭐ <code>If you like my work, consider starring my repositories!</code>
