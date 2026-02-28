@@ -76,7 +76,7 @@ to build scalable, industry-ready solutions.
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Kshitij2420/Kshitij2420/main/workflows/github-contribution-grid-snake.svg" 
+    src="https://raw.githubusercontent.com/Kshitij2420/Kshitij2420/main/dist/github-contribution-grid-snake.svg" 
     alt="GitHub contribution snake"
   />
 </p>
