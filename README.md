@@ -72,9 +72,13 @@ to build scalable, industry-ready solutions.
 
 ---
 
-## 🐍 Contribution Snake (Auto-Updated)
+## 🐍 Contribution Snake Animation
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kshitij2420/Kshitij2420/output/github-contribution-grid-snake.svg" />
+  <img 
+    src="https://raw.githubusercontent.com/Kshitij2420/Kshitij2420/main/workflows/github-contribution-grid-snake.svg" 
+    alt="GitHub contribution snake"
+  />
 </p>
 
 ---
