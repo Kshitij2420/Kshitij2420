@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-\`\`\`yaml
+
 name: Kshitij Rastogi
 role: Software Developer | MCA Student (3rd Semester)
 focus: [Java, Data Structures & Algorithms, MERN Stack]
@@ -25,7 +25,7 @@ currently_building:
   - Voice-to-SQL Query Generator (MCA mini project, team of 3)
 philosophy: "Consistency beats intensity."
 fun_fact: Daily LeetCode grinder 🔥
-\`\`\`
+
 
 <br/>
 
