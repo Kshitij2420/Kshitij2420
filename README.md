@@ -122,65 +122,81 @@ to build scalable, industry-ready solutions.
 <p align="center">
   ⭐ <code>If you like my work, consider starring my repositories!</code>
 </p> -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12&text=Kshitij%20Rastogi&fontAlign=50&fontAlignY=35&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Java%20Developer%20%7C%20DSA%20%7C%20MERN%20Stack&descAlignY=55&descSize=18" width="100%"/>
+# Hi 👋, I'm Kshitij Rastogi
 
-<img src="https://komarev.com/ghpvc/?username=Kshitij2420&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
-<img src="https://img.shields.io/badge/MCA-3rd%20Semester-6C63FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge" />
+### Java Developer · DSA Enthusiast · MERN Stack Builder
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+with+Java+%26+DSA;MERN+Stack+Developer;Solving+LeetCode+Daily;Currently%3A+MCA+Student;Always+Shipping+Something+New" />
+![Profile Views](https://komarev.com/ghpvc/?username=Kshitij2420&color=blueviolet&style=flat-square&label=Views)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-rastogi-b95759228)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/kshitijrastogi_/)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kshitijrastogi2420@gmail.com)
 
 </div>
 
 <br/>
 
-## 🧑‍💻 About Me
-
-```yaml
-name: Kshitij Rastogi
-role: Software Developer | MCA Student (3rd Semester)
-focus: [Java, Data Structures & Algorithms, MERN Stack]
-currently_building:
-  - AI-RAN Network Traffic Simulator (React + AI-driven prediction)
-  - Voice-to-SQL Query Generator (MCA mini project, team of 3)
-philosophy: "Consistency beats intensity."
-fun_fact: Daily LeetCode grinder 🔥
-```
+\`\`\`
+> whoami
+Kshitij Rastogi — MCA student (3rd semester), BCA graduate
+Building scalable solutions with Java, DSA, and the MERN stack
+Currently sharpening problem-solving skills, one LeetCode problem at a time
+\`\`\`
 
 <br/>
 
-## ⚡ Tech Arsenal
+## 🎯 Focus Areas
+
+| Area | Details |
+|---|---|
+| 🧠 **Core Strength** | Java · Data Structures & Algorithms · Competitive Programming |
+| 🌱 **Currently Learning** | MERN Stack, SEO fundamentals |
+| 🎓 **Education** | BCA Graduate → Pursuing MCA (3rd Semester) |
+| 🚀 **Goal** | Becoming a high-impact software engineer |
+
+<br/>
+
+## 🛠️ Building With
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mysql,html,css,tailwind,bootstrap,git,github,vscode&theme=dark" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 <br/>
 
-## 🚧 What I'm Working On
+## 🚧 Currently Building
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📡 AI-RAN Network Traffic Simulator
-A React-based dashboard simulating AI-driven network traffic prediction — sidebar navigation, live analytics, and a dark, telecom-grade UI.
+**📡 AI-RAN Network Traffic Simulator**
 
-`React` `React Router` `Recharts` `AI Prediction`
+A React dashboard simulating AI-driven telecom network traffic prediction — real-time analytics, tower monitoring, and a dark control-room-style UI.
+
+\`React\` \`React Router\` \`Recharts\` \`AI/ML\`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎙️ Voice-to-SQL Query Generator
-An MCA mini project (team of 3) that converts spoken language directly into executable SQL queries.
+**🎙️ Voice-to-SQL Query Generator**
 
-`NLP` `SQL` `Team Project` `MCA Sem 3`
+MCA 3rd-semester mini project (team of 3) — converts natural spoken language into executable SQL queries.
+
+\`NLP\` \`SQL\` \`Team Project\`
 
 </td>
 </tr>
@@ -188,61 +204,42 @@ An MCA mini project (team of 3) that converts spoken language directly into exec
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📈 Coding Activity
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kshitij2420&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Kshitij2420&theme=tokyonight&hide_border=true&mode=daily" />
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kshitijrastogi_?theme=dark&font=JetBrains%20Mono&ext=contest)](https://leetcode.com/u/kshitijrastogi_/)
+
 </div>
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij2420&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kshitij2420&theme=tokyo-night&hide_border=true" />
-</div>
 
-<br/>
+![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)
+![Consistency](https://img.shields.io/badge/Daily_Practice-DSA-blue?style=for-the-badge)
 
-## 🧩 LeetCode Progress
-
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/kshitijrastogi_?theme=dark&font=JetBrains%20Mono&ext=contest&border=0" />
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Kshitij2420/Kshitij2420/main/dist/github-contribution-grid-snake.svg" />
-</div>
-
-<br/>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/kshitij-rastogi-b95759228">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/kshitijrastogi_/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://www.hackerrank.com/profile/kshitijrastogi22">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-<a href="mailto:kshitijrastogi2420@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<img src="https://raw.githubusercontent.com/Kshitij2420/Kshitij2420/main/dist/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-⭐ **If you find my work interesting, drop a star on my repos — it keeps me motivated to build more.**
+### 📬 Let's Connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12&section=footer" width="100%"/>
+If you're working on something interesting in Java, DSA, or the MERN stack — or just want to talk shop — my inbox is open.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-rastogi-b95759228)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kshitijrastogi_/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/kshitijrastogi22)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitijrastogi2420@gmail.com)
+
+⭐ **Star my repos if you find them useful — it keeps me motivated to keep building.**
 
 </div>
